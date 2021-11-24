@@ -33,7 +33,7 @@ function success(position){
 }
 
 function error(){
-    alert('Cannot access the  location')
+    prayerTimes('-6.200000','106.816666')
 }
 
 function userLocation(){
